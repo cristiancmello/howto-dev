@@ -4,16 +4,8 @@ How To Dev - Base de Conhecimento em Desenvolvimento de Software
 
 ## HT - Linux Environment
 
-- Como ter um ambiente Linux para desenvolvimento do dia-a-dia?
+- Como ter um ambiente Linux para desenvolvimento do dia-a-dia? [Seção WSL2](WSL2.md).
 
-### A. WSL2
+## Java
 
-O ambiente WSL2 permite trabalhar com apps Windows integrados com Linux.
-
-Visite a [Seção WSL2](WSL2.md).
-
-### B. Dual Boot
-
-Ter um sistema operacional Linux ao lado do Windows pode ser uma alternativa.
-Entretanto, pode haver problemas de hardware quando se usa drivers recentes e diversos
-problemas comuns que reforça necessidade de ter somente 1 SO no PC.
+- Deseja desenvolver em Java com suporte a build tool como Maven? [Seção Java](java/README.md).
